@@ -1,0 +1,6 @@
+interface:
+  display_name: "Slide Defense Weaver"
+  short_description: "把逐页答辩串成连贯故事，并准备项目问答与不卑不亢的压力应对"
+  default_prompt: "使用 $slide-defense-weaver，根据我的项目材料和PPT，先确认陈述与提问时长，再审查故事和页序，确认后制作逐页答辩稿、评委问答和压力问答三个Word文件。"
+policy:
+  allow_implicit_invocation: true

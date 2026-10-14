@@ -1,0 +1,11 @@
+name: "Improvement idea / 改进建议"
+description: "Suggest a better workflow, transition, or rehearsal experience. 中英文均可。"
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: "What would help? / 希望改进什么？"
+      description: "Describe the situation and the change you would find useful."
+    validations:
+      required: true

@@ -1,0 +1,23 @@
+name: "Usage problem / 使用问题"
+description: "Report a loading, packaging, or output problem. 中英文均可。"
+labels: ["bug"]
+body:
+  - type: input
+    id: client
+    attributes:
+      label: "Client and version / 客户端与版本"
+      placeholder: "Codex / Claude Code / another AI"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: "What happened? / 遇到了什么问题？"
+      description: "Include expected behavior and steps to reproduce. Use fictional or redacted material; do not attach confidential project files."
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: "Relevant output / 相关输出"
+      description: "Optional error message or short example. 可选，填写报错或简短示例。"

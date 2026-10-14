@@ -1,0 +1,10 @@
+{
+  "name": "slide-defense-weaver",
+  "version": "1.0.0",
+  "description": "Understand your project, discuss slide order, and weave a coherent defense story with mock Q&A and tough-question rehearsal.",
+  "author": {"name": "Jizhou Hu", "url": "https://github.com/hujizhou35-cmd"},
+  "homepage": "https://github.com/hujizhou35-cmd/slide-defense-weaver",
+  "repository": "https://github.com/hujizhou35-cmd/slide-defense-weaver",
+  "license": "MIT",
+  "keywords": ["presentation", "storytelling", "thesis-defense", "agent-skills"]
+}

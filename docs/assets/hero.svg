@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-labelledby="title desc">
+  <title id="title">Slide Defense Weaver</title>
+  <desc id="desc">Three slides connected by a continuous thread, representing one coherent story.</desc>
+  <rect width="1200" height="290" rx="12" fill="#F5F2E9"/>
+  <text x="48" y="91" font-family="Arial,sans-serif" font-size="17" letter-spacing="4" fill="#176B65">UNDERSTAND · CONNECT · REHEARSE</text>
+  <text x="48" y="155" font-family="Georgia,serif" font-size="48" fill="#153E3B">Slide Defense Weaver</text>
+  <text x="50" y="200" font-family="Arial,sans-serif" font-size="22" fill="#526360">One project. A story your audience can follow.</text>
+  <g fill="#FFFFFF" stroke="#B3C6BF" stroke-width="2">
+    <rect x="745" y="66" width="106" height="142" rx="6"/>
+    <rect x="887" y="66" width="106" height="142" rx="6"/>
+    <rect x="1029" y="66" width="106" height="142" rx="6"/>
+  </g>
+  <g font-family="Arial,sans-serif" font-size="17" fill="#176B65">
+    <text x="762" y="96">01</text><text x="904" y="96">02</text><text x="1046" y="96">03</text>
+  </g>
+  <g stroke="#D4DED9" stroke-width="5"><path d="M763 115h68m-68 16h49M905 115h68m-68 16h49M1047 115h68m-68 16h49"/></g>
+  <path d="M720 179 C770 145 803 198 850 177 S941 144 993 177 S1090 202 1159 166" fill="none" stroke="#A77C37" stroke-width="5" stroke-linecap="round"/>
+  <g fill="#176B65"><circle cx="800" cy="178" r="6"/><circle cx="940" cy="159" r="6"/><circle cx="1082" cy="190" r="6"/></g>
+</svg>

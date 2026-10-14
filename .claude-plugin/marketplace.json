@@ -1,0 +1,13 @@
+{
+  "name": "slide-defense-weaver",
+  "owner": {"name": "Jizhou Hu"},
+  "metadata": {"description": "Story-first defense preparation with a slide-by-slide script, mock Q&A, and tough-question rehearsal."},
+  "plugins": [
+    {
+      "name": "slide-defense-weaver",
+      "source": "./",
+      "description": "Tell one coherent story across your slides.",
+      "version": "1.0.0"
+    }
+  ]
+}

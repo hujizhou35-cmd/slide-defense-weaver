@@ -1,0 +1,13 @@
+{
+  "name": "slide-defense-weaver",
+  "interface": {"displayName": "Slide Defense Weaver"},
+  "plugins": [
+    {
+      "name": "slide-defense-weaver",
+      "source": {"source": "local", "path": "./"},
+      "policy": {"installation": "AVAILABLE", "authentication": "ON_INSTALL"},
+      "category": "Productivity",
+      "interface": {"displayName": "Slide Defense Weaver"}
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112" role="img" aria-labelledby="title desc">
+  <title id="title">From project understanding to rehearsal</title>
+  <desc id="desc">Confirm time, understand the project, discuss story and order, get the user's choice, then prepare three documents.</desc>
+  <path d="M90 37H1110" stroke="#B3C6BF" stroke-width="3"/>
+  <g fill="#176B65"><circle cx="90" cy="37" r="20"/><circle cx="330" cy="37" r="20"/><circle cx="570" cy="37" r="20"/><circle cx="810" cy="37" r="20"/><circle cx="1110" cy="37" r="20"/></g>
+  <g font-family="Arial,sans-serif" font-size="17" text-anchor="middle" fill="#FFFFFF"><text x="90" y="43">1</text><text x="330" y="43">2</text><text x="570" y="43">3</text><text x="810" y="43">4</text><text x="1110" y="43">5</text></g>
+  <g font-family="Arial,sans-serif" font-size="20" text-anchor="middle" fill="#153E3B"><text x="90" y="91">Time</text><text x="330" y="91">Project</text><text x="570" y="91">Story &amp; order</text><text x="810" y="91">Your choice</text><text x="1110" y="91">3 documents</text></g>
+</svg>
