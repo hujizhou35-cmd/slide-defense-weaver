@@ -14,6 +14,6 @@
     "longDescription": "Reads your project materials and slides, discusses the narrative and slide order with you, then prepares a slide-by-slide defense script, mock Q&A, and tough-question rehearsal as three Word files.",
     "developerName": "Jizhou Hu",
     "category": "Productivity",
-    "defaultPrompt": "Use Slide Defense Weaver to understand my project and PPT, confirm my speaking and Q&A time, discuss the story and slide order, then prepare the three defense documents."
+    "defaultPrompt": "Use Slide Defense Weaver to read my project and PPT, confirm time, discuss the story, then prepare my defense."
   }
 }

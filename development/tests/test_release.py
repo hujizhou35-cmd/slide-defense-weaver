@@ -11,6 +11,14 @@ spec.loader.exec_module(builder)
 
 
 class ReleaseTest(unittest.TestCase):
+    def test_client_manifest_identity_and_prompt_limit(self):
+        import json
+        codex=json.loads((ROOT/'.codex-plugin/plugin.json').read_text(encoding='utf-8'))
+        claude=json.loads((ROOT/'.claude-plugin/plugin.json').read_text(encoding='utf-8'))
+        for key in ('name','version','author','license'):
+            self.assertEqual(codex[key],claude[key])
+        self.assertLessEqual(len(codex['interface']['defaultPrompt']),128)
+
     def test_repeat_build_is_byte_identical(self):
         with tempfile.TemporaryDirectory() as temp:
             a,b=Path(temp)/'a',Path(temp)/'b'
