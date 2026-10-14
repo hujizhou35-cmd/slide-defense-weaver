@@ -24,6 +24,27 @@ You decide whether to revise the slides or keep the current order. Then it prepa
 
 See the short [installation guide](docs/install.md) for Codex, Claude Code, and other AI tools. The standalone file uses equivalent checklists instead of the packaged Python helpers.
 
+<details>
+<summary><strong>Install directly in Codex or Claude Code</strong></summary>
+
+**Codex CLI**
+
+```sh
+codex plugin marketplace add hujizhou35-cmd/slide-defense-weaver
+codex plugin add slide-defense-weaver@slide-defense-weaver
+```
+
+**Claude Code**
+
+```text
+/plugin marketplace add hujizhou35-cmd/slide-defense-weaver
+/plugin install slide-defense-weaver@slide-defense-weaver
+```
+
+Open a new session and ask to use Slide Defense Weaver. For local ZIP or skill-folder installation, follow the [installation guide](docs/install.md).
+
+</details>
+
 Provide your **project plan, report, or equivalent explanation**, plus your **PPT**. Tell the skill your speaking and Q&A time, or let it ask first. It also checks video time, event rules, and whether team introductions should be brief, detailed, or omitted.
 
 ```text

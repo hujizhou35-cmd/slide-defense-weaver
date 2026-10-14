@@ -24,6 +24,27 @@
 
 Codex、Claude Code 和其他 AI 的使用方法见[简短安装说明](install.zh-CN.md)。独立文件使用等价的检查清单，不附带完整包里的 Python 辅助脚本。
 
+<details>
+<summary><strong>直接在 Codex 或 Claude Code 中安装</strong></summary>
+
+**Codex CLI**
+
+```sh
+codex plugin marketplace add hujizhou35-cmd/slide-defense-weaver
+codex plugin add slide-defense-weaver@slide-defense-weaver
+```
+
+**Claude Code**
+
+```text
+/plugin marketplace add hujizhou35-cmd/slide-defense-weaver
+/plugin install slide-defense-weaver@slide-defense-weaver
+```
+
+开启新会话，要求使用 Slide Defense Weaver。本地 ZIP 或独立技能目录的安装方式见[安装说明](install.zh-CN.md)。
+
+</details>
+
 准备好**项目计划书、报告或等价说明**，以及 **PPT**。说明正式陈述和提问时间，也可以让技能先向你询问。它还会确认视频如何计时、比赛规则，以及团队部分是略讲、详讲还是禁止展示。
 
 ```text
